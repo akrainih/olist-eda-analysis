@@ -20,7 +20,7 @@ EDA of Brazilian e-commerce · Python · pandas · seaborn · 100k orders
 
 | Инсайт | Цифра |
 |--------|-------|
-| Рост платформы за год | x40 (2016→2017) |
+| Рост платформы за год | x40 |
 | Топ штат по выручке | SP  |
 | Топ категория | bed_bath_table |
 | Оценка при быстрой доставке | 4.4 vs 2.8 при опоздании |
@@ -41,5 +41,5 @@ EDA of Brazilian e-commerce · Python · pandas · seaborn · 100k orders
 
 ## Как запустить
 
-Скачать датасет с Kaggle → положить CSV в папку data/ → 
+Скачать датасет с Kaggle положить CSV в папку data/ 
 запустить EDA_brasil.ipynb
