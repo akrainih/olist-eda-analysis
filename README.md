@@ -1,20 +1,16 @@
-# olist-eda-analysis
-EDA of Brazilian e-commerce · Python · pandas · seaborn · 100k orders
 
 # EDA: Brazilian E-Commerce (Olist)
 
 **Автор:** Крайних Анастасия 
-**Инструменты:** Python, pandas, seaborn, matplotlib, scipy  
+**Стек:** Python, pandas, seaborn, matplotlib, scipy  
 **Датасет:** [Brazilian E-Commerce — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — 100k заказов, 9 таблиц
-
----
 
 ## Цель
 
 Исследовать операционные показатели маркетплейса: динамику продаж,
 географию покупателей, топ категории и влияние доставки на оценки.
 
----
+----
 
 ## Ключевые выводы
 
@@ -37,9 +33,3 @@ EDA of Brazilian e-commerce · Python · pandas · seaborn · 100k orders
 5. Топ категории товаров
 6. Анализ доставки и влияние на оценки (t-test)
 
----
-
-## Как запустить
-
-Скачать датасет с Kaggle положить CSV в папку data/ 
-запустить EDA_brasil.ipynb
