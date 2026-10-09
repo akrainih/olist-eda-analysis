@@ -1,9 +1,11 @@
 
 # EDA: Brazilian E-Commerce (Olist)
 
-**Автор:** Крайних Анастасия 
+**Автор:** Крайних Анастасия
 **Стек:** Python, pandas, seaborn, matplotlib, scipy  
 **Датасет:** [Brazilian E-Commerce — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — 100k заказов, 9 таблиц
+
+[Ноутбук](https://github.com/akrainih/olist-eda-analysis/blob/2b4d334c55df3309756c2862fe897b2c4a9e00f0/EDA_brasil.ipynb)
 
 ## Цель
 
